@@ -24,6 +24,14 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Using Docker
+- Run the following commands sequentially
+```
+docker-compose build
+docker-compose up
+```
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/ayush9h/CISTUP-Web-Assignment/blob/main/references/Screenshot%202024-03-23%20171710.png)
