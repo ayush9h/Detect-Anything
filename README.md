@@ -1,10 +1,14 @@
+
+
+
+
 ## Detect Anything(DAM) Guide
 Install the YOLOv3 weights from https://pjreddie.com/darknet/yolo/
 
 - Delete the references folder when repository cloned on your local systems.
 
 ## Demonstration Video
-![Demo Video](https://github.com/ayush9h/CISTUP-Web-Assignment/blob/main/record/screen-capture.mp4)
+https://github.com/ayush9h/CISTUP-Web-Assignment/assets/102464313/1e81cf62-6384-4f58-9b9a-da5b2d526596
 
 ## Important commands to initialize the project locally
 
