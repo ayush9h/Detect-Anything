@@ -3,6 +3,9 @@ Install the YOLOv3 weights from https://pjreddie.com/darknet/yolo/
 
 - Delete the references folder when repository cloned on your local systems.
 
+## Demonstration Video
+![Demo Video](https://github.com/ayush9h/CISTUP-Web-Assignment/blob/main/record/screen-capture.mp4)
+
 ## Important commands to initialize the project locally
 
 - Split the terminal in two, each for frontend and backend respectively.
