@@ -23,5 +23,8 @@ python app.py
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ayush9h/CISTUP-Web-Assignment/blob/main/references/Screenshot%202024-03-23%20171710.png)
+![App Screenshot](https://github.com/ayush9h/CISTUP-Web-Assignment/blob/main/references/Screenshot%202024-03-23%20171719.png)
+![App Screenshot](https://github.com/ayush9h/CISTUP-Web-Assignment/blob/main/references/Screenshot%202024-03-23%20171728.png)
+![App Screenshot](https://github.com/ayush9h/CISTUP-Web-Assignment/blob/main/references/Screenshot%202024-03-23%20171740.png)
 
