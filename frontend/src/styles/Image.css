@@ -1,0 +1,96 @@
+/* Upload CSS */
+  .usage-window h1{
+    font-size: 6rem;
+    font-family: var(--font-main);
+    color:var(--txt-color);
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  .usage-window p{
+    font-size: 2rem;
+    font-family: var(--font-main);
+    font-weight: 200;
+    color:var(--txt-color);
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .upload-result-grid {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+  
+  .upload-result-grid h1{
+    font-size: 2rem;
+    font-family: "Montserrat",sans-serif;
+    color:var(--txt-color);
+  }
+  .upload-window{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 0.1rem dashed var(--accent-color);
+    border-radius: 0.75rem;
+    height: 30rem;
+    margin-bottom: 5rem;
+  }
+  .upload-result-grid .upload-section{
+    width: 100%;
+  }
+  .upload-section button{
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    font-family: var(--font-main);
+    border: none;
+    outline: none;
+  }
+  .upload-section p{
+    margin-top: 2rem;
+    font-family: var(--font-main);
+    font-size: 1.4rem;
+    color:var(--txt-color);
+  }
+  .result-window{
+    width: 100%;
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-size: cover;
+    border-radius: 0.75rem;
+    background-color: #151515;
+    border: 0.1rem solid var(--accent-color);
+    overflow: hidden;
+  }
+  .result-window h1{
+    font-family: var(--font-main);
+    font-size: 2rem;
+    font-weight: 300;
+  }
+  .result-image {
+    width: 100%;
+    object-fit: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .analysis-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10rem;
+  }
+  .analysis-container p{
+    font-size: 1.5rem;
+    font-family: var(--font-main);
+    color:var(--txt-color);
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+  }
+.analysis-container h1{
+  font-size: 2rem;
+  font-family: var(--font-main);
+  color:var(--accent-color);
+  margin-bottom: 2rem;
+}

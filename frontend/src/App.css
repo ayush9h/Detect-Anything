@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+:root{
+  --bg-color: #ffffff;
+  --txt-color : #F8F9F8;
+  --font-main : "Montserrat", sans-serif;
+}
+body{
+  background-image:url("./assets/background.png");
+  background-size: cover;
+}
+body, html {
+  font-size: 62.5%;
+}
+.max-width{
+  width: min(400ch, 100% - 4rem);
+  margin-inline: auto;
+}

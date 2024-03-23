@@ -1,0 +1,13 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #151515;
+    padding: 2rem;
+    font-size: 1.5rem;
+    font-family: var(--font-main);
+    color:var(--txt-color);
+    margin-top: 5rem;
+    border-top: 0.1rem solid var(--accent-color);
+}

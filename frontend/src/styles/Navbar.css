@@ -1,0 +1,33 @@
+/* Navigation CSS */
+.navigation-menu{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 8rem;
+  }
+  .navigation-menu .logo{
+    font-size: 2rem;
+    font-family: var(--font-main);
+    color:var(--txt-color);
+  }
+  .nav-links{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  a{
+    text-decoration: none;
+    color:var(--text-color);
+  }
+  
+  .nav-links li{
+    font-size: 1.5rem;
+    font-family: var(--font-main);
+    list-style-type: none;
+    margin-right: 2rem;
+    color:var(--accent-color);
+  }
+  .nav-links li:hover{
+    font-weight: bolder;
+    cursor: pointer;
+  }
+  
