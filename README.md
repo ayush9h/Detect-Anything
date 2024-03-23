@@ -3,7 +3,7 @@ Install the YOLOv3 weights from https://pjreddie.com/darknet/yolo/
 
 - Delete the references folder when repository cloned on your local systems.
 
-Important commands to initialize the project locally
+## Important commands to initialize the project locally
 
 - Split the terminal in two, each for frontend and backend respectively.
 
