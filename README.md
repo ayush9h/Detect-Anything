@@ -1,6 +1,5 @@
-
 ## Detect Anything(DAM) Guide
-
+Install the YOLOv3 weights from https://pjreddie.com/darknet/yolo/
 Important commands to initialize the project locally
 
 - For frontend folder(sequentially follow each commands)
