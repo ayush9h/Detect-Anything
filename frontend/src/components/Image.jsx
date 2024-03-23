@@ -37,7 +37,6 @@ function Image() {
         setUploadMessage(
           "Image Uploaded successfully! See the detailed picture below."
         );
-        // Request the number of objects detected and unique classes
         fetch("http://localhost:5000/numberOfObjects", {
           method: "POST",
         })
