@@ -18,7 +18,7 @@ npm run dev
 ```
 py -3 -m venv .venv
 .venv\Scripts\activate
-pip3 freeze > requirements.txt
+pip install -r requirements.txt
 ```
 - Executing the backend python code
 ```
