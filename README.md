@@ -1,9 +1,9 @@
 ## Detect Anything(DAM) Guide
 Install the YOLOv3 weights from https://pjreddie.com/darknet/yolo/
 
-Important commands to initialize the project locally
+- Delete the references folder when repository cloned on your local systems.
 
-- Delete the references folder when repository cloned on your local systems..
+Important commands to initialize the project locally
 
 - For frontend folder(sequentially follow each commands)
 ```
