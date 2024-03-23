@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Using Docker
+## Using Docker(Local Setup)
 - Run the following commands sequentially
 ```
 docker-compose build
